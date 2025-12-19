@@ -1,0 +1,6 @@
+# Ignore local tools and temporary backups
+tools/
+*.bak
+*.bak2
+.vscode/
+.DS_Store
