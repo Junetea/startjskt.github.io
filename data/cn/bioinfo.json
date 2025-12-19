@@ -1,0 +1,441 @@
+{
+  "title": "生物信息学网址导航",
+  "meta.description": "学术导航收集国内外科研学术网站、文献检索、期刊发表、论文下载、专利检索、期刊官网、数据库等，为广大科研人员在学术道路上提供方便快捷的服务。start.jisuiketang.com",
+  "menu": [
+    { "title": "学术导航", "href": "/", "icon": "linecons-star" },
+    { "title": "生信导航", "href": "/cn/bioinfo.html", "icon": "linecons-doc", "sub": [
+      { "title": "常用推荐", "href": "#常用推荐" },
+      { "title": "数据资源", "href": "#数据资源" },
+      { "title": "植物基因组", "href": "#植物基因组" },
+      { "title": "生信工具", "href": "#生信工具" },
+      { "title": "引物设计工具", "href": "#引物设计工具" },
+      { "title": "在线分析", "href": "#在线分析" },
+      { "title": "生信学习", "href": "#生信学习" }
+    ] },
+    { "title": "购物导航", "href": "/cn/gouwu.html", "icon": "linecons-doc" },
+    { "title": "设计导航", "href": "/cn/design.html", "icon": "linecons-doc" },
+    { "title": "关于本站", "href": "/cn/about.html", "icon": "linecons-heart" }
+  ],
+  "sections": [
+    {
+      "title": "常用推荐",
+      "items": [
+        {
+          "url": "https://www.hsls.pitt.edu/obrc/",
+          "image": "../assets/images/logos/dribbble.png",
+          "title": "OBRC",
+          "description": "匹兹堡大学图书馆在线生信资源汇总库",
+          "tooltip": "https://www.hsls.pitt.edu/obrc/"
+        },
+        {
+          "url": "https://www.expasy.org/",
+          "image": "../assets/images/logos/behance.png",
+          "title": "Expasy",
+          "description": "瑞士生物信息学研究所（SIB）资源库",
+          "tooltip": "https://www.expasy.org/"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/",
+          "image": "../assets/images/logos/uicn.png",
+          "title": "NCBI",
+          "description": "美国国家生物信息中心",
+          "tooltip": "https://www.ncbi.nlm.nih.gov/"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/",
+          "image": "../assets/images/logos/zcool.png",
+          "title": "EMBL-EBI",
+          "description": "欧洲生物信息研究所",
+          "tooltip": "https://www.ebi.ac.uk/"
+        },
+        {
+          "url": "https://genome.ucsc.edu/index.html",
+          "image": "../assets/images/logos/pinterest.png",
+          "title": "UCSC",
+          "description": "UCSC Genome Browser，提供基因组草图和Web分析工具",
+          "tooltip": "https://genome.ucsc.edu/index.html"
+        },
+        {
+          "url": "http://ensemblgenomes.org/",
+          "image": "../assets/images/logos/huaban.png",
+          "title": "Ensembl genome browser",
+          "description": "寻找基因信息的超级工具",
+          "tooltip": "http://ensemblgenomes.org/"
+        },
+        {
+          "url": "http://www.bioinformatics.org/",
+          "image": "../assets/images/logos/huaban.png",
+          "title": "生物信息学组织",
+          "description": "生物信息学学科的综合性网站",
+          "tooltip": "http://www.bioinformatics.org/"
+        }
+      ]
+    },
+    {
+      "title": "数据资源",
+      "items": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/snp/",
+          "image": "../assets/images/logos/aliyun.png",
+          "title": "dbSNP",
+          "description": "单核苷酸多态性数据库",
+          "tooltip": "https://www.ncbi.nlm.nih.gov/snp/"
+        },
+        {
+          "url": "https://www.uniprot.org/",
+          "image": "../assets/images/logos/gulusucai.png",
+          "title": "UniProt",
+          "description": "信息最丰富、资源最广的蛋白质数据库",
+          "tooltip": "https://www.uniprot.org/"
+        },
+        {
+          "url": "https://www.mirbase.org/",
+          "image": "../assets/images/logos/xiyou.png",
+          "title": "miRBase",
+          "description": "提供包括已发表的miRNA序列数据、注释、预测基因靶标等信息的全方位数据库，是存储miRNA信息最主要的公共数据库之一",
+          "tooltip": "https://www.mirbase.org/"
+        },
+        {
+          "url": "http://amigo.geneontology.org/amigo",
+          "image": "../assets/images/logos/shejizhoukan.png",
+          "title": "AmiGO 2",
+          "description": "基因本体论Go数据库与查询工具",
+          "tooltip": "http://amigo.geneontology.org/amigo"
+        },
+        {
+          "url": "https://www.kegg.jp/",
+          "image": "../assets/images/logos/aliyun.png",
+          "title": "KEGG",
+          "description": "信号通路数据库",
+          "tooltip": "https://www.kegg.jp/"
+        },
+        {
+          "url": "http://pfam.xfam.org/",
+          "image": "../assets/images/logos/gulusucai.png",
+          "title": "Pfam",
+          "description": "蛋白质家族数据库",
+          "tooltip": "http://pfam.xfam.org/"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/geo/",
+          "image": "../assets/images/logos/xiyou.png",
+          "title": "GEO",
+          "description": "基因共表达数据库",
+          "tooltip": "https://www.ncbi.nlm.nih.gov/geo/"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/genbank/",
+          "image": "../assets/images/logos/shejizhoukan.png",
+          "title": "GenBank",
+          "description": "美国国家生物技术信息中心(NCBI)建立的DNA序列数据库",
+          "tooltip": "https://www.ncbi.nlm.nih.gov/genbank/"
+        },
+        {
+          "url": "https://www.ddbj.nig.ac.jp/index-e.html",
+          "image": "../assets/images/logos/aliyun.png",
+          "title": "DDBJ",
+          "description": "日本DNA序列资料库",
+          "tooltip": "https://www.ddbj.nig.ac.jp/index-e.html"
+        },
+        {
+          "url": "https://ngdc.cncb.ac.cn/databasecommons/",
+          "image": "../assets/images/logos/gulusucai.png",
+          "title": "国家基因数据中心",
+          "description": "国家基因库下属数据库，涵盖各种生物的全面公开可用的数据信息",
+          "tooltip": "https://ngdc.cncb.ac.cn/databasecommons/"
+        },
+        {
+          "url": "https://www.rcsb.org/",
+          "image": "../assets/images/logos/xiyou.png",
+          "title": "PDB",
+          "description": "蛋白质结构数据库",
+          "tooltip": "https://www.rcsb.org/"
+        },
+        {
+          "url": "https://www.agbiodata.org/",
+          "image": "../assets/images/logos/shejizhoukan.png",
+          "title": "AgBioData",
+          "description": "农业生物数据库和相关资源综合平台",
+          "tooltip": "https://www.agbiodata.org/"
+        }
+      ]
+    },
+    {
+      "title": "植物基因组",
+      "items": [
+        {
+          "url": "http://www.plantgdb.org/",
+          "image": "../assets/images/logos/plantgdb.png",
+          "title": "PlantGDB",
+          "description": "植物基因组数据库",
+          "tooltip": "http://www.plantgdb.org/"
+        },
+        {
+          "url": "https://phytozome-next.jgi.doe.gov/",
+          "image": "../assets/images/logos/jgi.png",
+          "title": "JGI Phytozome",
+          "description": "JGI Phytozome植物基因组数据库",
+          "tooltip": "https://phytozome-next.jgi.doe.gov/"
+        },
+        {
+          "url": "https://www.arabidopsis.org/index.jsp",
+          "image": "../assets/images/logos/tair.png",
+          "title": "TAIR",
+          "description": "拟南芥基因组数据库",
+          "tooltip": "https://www.arabidopsis.org/index.jsp"
+        },
+        {
+          "url": "https://solgenomics.net/",
+          "image": "../assets/images/logos/sgn.png",
+          "title": "SGN",
+          "description": "Sol Genomics Network, 茄科植物基因组数据库",
+          "tooltip": "https://solgenomics.net/"
+        },
+        {
+          "url": "http://rice.uga.edu/",
+          "image": "../assets/images/logos/rgap.png",
+          "title": "RGAP",
+          "description": "Rice Genome Annotation Project, 水稻基因组注释工程",
+          "tooltip": "http://rice.uga.edu/"
+        },
+        {
+          "url": "http://spuddb.uga.edu/index.shtml",
+          "image": "../assets/images/logos/spuddb.png",
+          "title": "Spud DB",
+          "description": "土豆基因资源库",
+          "tooltip": "http://spuddb.uga.edu/index.shtml"
+        },
+        {
+          "url": "http://www.kazusa.or.jp/lotus/index.html",
+          "image": "../assets/images/logos/miyakogusa.png",
+          "title": "百脉根基因数据",
+          "description": "百脉根基因数据库",
+          "tooltip": "http://www.kazusa.or.jp/lotus/index.html"
+        },
+        {
+          "url": "https://www.legumeinfo.org/",
+          "image": "../assets/images/logos/lis.png",
+          "title": "LIS",
+          "description": "LIS: Legume Information System，豆科植物基因数据库",
+          "tooltip": "https://www.legumeinfo.org/"
+        },
+        {
+          "url": "http://wheat-urgi.versailles.inra.fr/",
+          "image": "../assets/images/logos/urgi.png",
+          "title": "URGI",
+          "description": "小麦基因数据库",
+          "tooltip": "http://wheat-urgi.versailles.inra.fr/"
+        },
+        {
+          "url": "https://www.cottongen.org/",
+          "image": "../assets/images/logos/cottongen.png",
+          "title": "COTTONGEN",
+          "description": "棉花基因数据库",
+          "tooltip": "https://www.cottongen.org/"
+        },
+        {
+          "url": "https://plantgenie.org/",
+          "image": "../assets/images/logos/plantgenie.png",
+          "title": "PlantGenIE",
+          "description": "包含杨树、文冠果等多种植物基因的数据库",
+          "tooltip": "https://plantgenie.org/"
+        },
+        {
+          "url": "https://www.rosaceae.org/",
+          "image": "../assets/images/logos/gdr.png",
+          "title": "GDR",
+          "description": "蔷薇科植物基因数据库",
+          "tooltip": "https://www.rosaceae.org/"
+        },
+        {
+          "url": "https://medicagohapmap2.org/",
+          "image": "../assets/images/logos/hapmap.png",
+          "title": "HAPMAP2",
+          "description": "苜蓿基因数据库",
+          "tooltip": "https://medicagohapmap2.org/"
+        },
+        {
+          "url": "http://buckwheat.kazusa.or.jp/index.html",
+          "image": "../assets/images/logos/bgdb.png",
+          "title": "BGDB",
+          "description": "Buckwheat Genome Database, 荞麦基因数据库",
+          "tooltip": "http://buckwheat.kazusa.or.jp/index.html"
+        },
+        {
+          "url": "https://www.citrusgenomedb.org/",
+          "image": "../assets/images/logos/cgd.png",
+          "title": "CGD",
+          "description": "Citrus Genome Database，柑类基因数据库",
+          "tooltip": "https://www.citrusgenomedb.org/"
+        },
+        {
+          "url": "http://radish-genome.org/",
+          "image": "../assets/images/logos/radish.png",
+          "title": "Radish Genome Database",
+          "description": "萝卜基因数据库",
+          "tooltip": "http://radish-genome.org/"
+        },
+        {
+          "url": "http://eggplant.kazusa.or.jp/",
+          "image": "../assets/images/logos/eggplant4.jpg",
+          "title": "Eggplant Genome Database",
+          "description": "茄子基因数据库",
+          "tooltip": "http://eggplant.kazusa.or.jp/"
+        },
+        {
+          "url": "http://cucurbitgenomics.org/v2/",
+          "image": "../assets/images/logos/cugendb.png",
+          "title": "CuGenDB v2",
+          "description": "瓜类（西瓜、甜瓜、黄瓜等）基因数据库",
+          "tooltip": "http://cucurbitgenomics.org/v2/"
+        },
+        {
+          "url": "http://peargenome.njau.edu.cn/",
+          "image": "../assets/images/logos/pear.png",
+          "title": "Pear Genome Project",
+          "description": "梨的基因数据库",
+          "tooltip": "http://peargenome.njau.edu.cn/"
+        },
+        {
+          "url": "https://www.hardwoodgenomics.org/",
+          "image": "../assets/images/logos/hwg.png",
+          "title": "HWG",
+          "description": "Hardwood Genomics Project，核桃基因数据库",
+          "tooltip": "https://www.hardwoodgenomics.org/"
+        }
+      ]
+    },
+    {
+      "title": "生信工具",
+      "items": [
+        {
+          "url": "http://emboss.open-bio.org/",
+          "image": "../assets/images/logos/leiphone.png",
+          "title": "EMBOSS",
+          "description": "欧洲分子生物学开源工具集",
+          "tooltip": "http://emboss.open-bio.org/"
+        },
+        {
+          "url": "http://kobas.cbi.pku.edu.cn/",
+          "image": "../assets/images/logos/36kr.png",
+          "title": "KOBAS",
+          "description": "北京大学出品的优秀国产富集工具",
+          "tooltip": "http://kobas.cbi.pku.edu.cn/"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/Tools/psa/",
+          "image": "../assets/images/logos/digitaling.png",
+          "title": "PSA",
+          "description": "EMBL的生物序列比对工具",
+          "tooltip": "https://www.ebi.ac.uk/Tools/psa/"
+        },
+        {
+          "url": "http://www.webgestalt.org/option.php",
+          "image": "../assets/images/logos/lieyunwang.png",
+          "title": "WebGestalt",
+          "description": "基于Web的基因位点分析工具集",
+          "tooltip": "http://www.webgestalt.org/option.php"
+        },
+        {
+          "url": "http://smart.embl-heidelberg.de/",
+          "image": "../assets/images/logos/woshipm.png",
+          "title": "SMART",
+          "description": "蛋白保守结构域预测工具",
+          "tooltip": "http://smart.embl-heidelberg.de/"
+        },
+        {
+          "url": "https://bio.tools/",
+          "image": "../assets/images/logos/zaodula.png",
+          "title": "bio.tools",
+          "description": "生物信息学和生命科学软件工具门户",
+          "tooltip": "https://bio.tools/"
+        },
+        {
+          "url": "https://www.megasoftware.net/",
+          "image": "../assets/images/logos/chanpin100.png",
+          "title": "MEGA",
+          "description": "系统树(进化树)构建软件",
+          "tooltip": "https://www.megasoftware.net/"
+        },
+        {
+          "url": "https://www.genecards.org/",
+          "image": "../assets/images/logos/pmcaff.png",
+          "title": "GeneCards",
+          "description": "一个整合型的生物信息数据库,集成了来自约150个数据源",
+          "tooltip": "https://www.genecards.org/"
+        }
+      ]
+    },
+    {
+      "title": "引物设计工具",
+      "items": [
+        {
+          "url": "http://oligo.net/index.html",
+          "image": "../assets/images/logos/oligo.png",
+          "title": "Oligo 7",
+          "description": "Oligo 7可以进行普通引物、测序引物和杂交探针的设计,其最强大的功能是引物综合评价。",
+          "tooltip": "Oligo 7可以进行普通引物、测序引物和杂交探针的设计,其最强大的功能是引物综合评价"
+        },
+        {
+          "url": "http://www.premierbiosoft.com/primerdesign/",
+          "image": "../assets/images/logos/primerpremier.png",
+          "title": "Primer Premier",
+          "description": "Primer Premier是一款专业用于PCR或测序引物以及杂交探针的设计,评估的软件。",
+          "tooltip": "Primer Premier是一款专业用于PCR或测序引物以及杂交探针的设计,评估的软件"
+        }
+      ]
+    },
+    {
+      "title": "在线分析",
+      "items": [
+        {
+          "url": "https://services.healthtech.dtu.dk/service.php?TMHMM-2.0",
+          "image": "../assets/images/logos/producthunt.png",
+          "title": "TMHMM",
+          "description": "蛋白质跨膜结构分析",
+          "tooltip": "https://services.healthtech.dtu.dk/service.php?TMHMM-2.0"
+        },
+        {
+          "url": "https://www.orthodb.org/",
+          "image": "../assets/images/logos/NEXT.png",
+          "title": "OrthoDB",
+          "description": "同源基因分析",
+          "tooltip": "https://www.orthodb.org/"
+        },
+        {
+          "url": "http://gsds.gao-lab.org/",
+          "image": "../assets/images/logos/sspai.png",
+          "title": "GSDS",
+          "description": "北大出品的基于基因组注释文件绘制序列基因结构的工具",
+          "tooltip": "http://gsds.gao-lab.org/"
+        }
+      ]
+    },
+    {
+      "title": "生信学习",
+      "items": [
+        {
+          "url": "https://www.biostars.org/",
+          "image": "../assets/images/logos/Pttrns.png",
+          "title": "BioStars",
+          "description": "生物信息学问答网站",
+          "tooltip": "https://www.biostars.org/"
+        },
+        {
+          "url": "http://seqanswers.com/",
+          "image": "../assets/images/logos/CollectUI.png",
+          "title": "SEQanswers",
+          "description": "下一代基因测序社区",
+          "tooltip": "http://seqanswers.com/"
+        },
+        {
+          "url": "http://abc.gao-lab.org/index.php",
+          "image": "../assets/images/logos/uiuigreat.png",
+          "title": "ABC",
+          "description": "北京大学应用生物信息学中心",
+          "tooltip": "http://abc.gao-lab.org/index.php"
+        }
+      ]
+    }
+  ]
+}

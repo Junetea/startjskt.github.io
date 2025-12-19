@@ -65,3 +65,15 @@
 .img-circle {
     padding: 7px 0;
 }
+
+/* Increase spacing above section headers in main content so they're not too close
+   to the previous section. Keep the very first header a bit tighter. */
+.main-content h3.text-gray,
+.main-content h4.text-gray {
+    margin-top: 28px;
+    margin-bottom: 8px;
+}
+.main-content h3.text-gray:first-of-type,
+.main-content h4.text-gray:first-of-type {
+    margin-top: 8px;
+}

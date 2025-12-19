@@ -1,0 +1,567 @@
+{
+  "title": "学术网址导航",
+  "meta.description": "学术导航收集国内外科研学术网站、文献检索、期刊发表、论文下载、专利检索、期刊官网、数据库等，为广大科研人员在学术道路上提供方便快捷的服务。start.jisuiketang.com",
+  "sections": [
+    {
+      "title": "常用推荐",
+      "items": [
+        {
+          "url": "http://www.nssd.cn/",
+          "image": "../assets/images/logos/nssd.png",
+          "title": "国家哲学社科",
+          "description": "国家哲学社会科学学术期刊数据库",
+          "tooltip": "http://www.nssd.cn/"
+        },
+        {
+          "url": "https://www.cnki.net/",
+          "image": "../assets/images/logos/cnki.png",
+          "title": "CNKI",
+          "description": "中国知识基础设施工程",
+          "tooltip": "https://www.cnki.net/"
+        },
+        {
+          "url": "https://www.wanfangdata.com.cn/",
+          "image": "../assets/images/logos/wanfangdata.png",
+          "title": "万方数据",
+          "description": "万方知识服务平台",
+          "tooltip": "https://www.wanfangdata.com.cn/"
+        },
+        {
+          "url": "http://cqvip.com/",
+          "image": "../assets/images/logos/cqvip.png",
+          "title": "维普网",
+          "description": "维普期刊论文数据库",
+          "tooltip": "http://cqvip.com/"
+        },
+        {
+          "url": "https://sci-hub.ru/",
+          "image": "../assets/images/logos/scihub.png",
+          "title": "Sci-Hub",
+          "description": "免费国外论文下载",
+          "tooltip": "https://sci-hub.ru/"
+        },
+        {
+          "url": "https://www.webofknowledge.com/",
+          "image": "../assets/images/logos/wos.png",
+          "title": "Web of Science",
+          "description": "WoS SCI科研资源库，提供全面的全球论文期刊杂志引文检索",
+          "tooltip": "https://www.webofknowledge.com/"
+        },
+        {
+          "url": "https://www.sciencedirect.com/",
+          "image": "../assets/images/logos/sciencedirect.png",
+          "title": "Science Direct",
+          "description": "全球领先的科技和医学信息的期刊、图书和文献数据库",
+          "tooltip": "https://www.sciencedirect.com/"
+        },
+        {
+          "url": "https://link.springer.com/",
+          "image": "../assets/images/logos/springerlink.png",
+          "title": "SpringerLink",
+          "description": "全球领先的科学、技术和医学领域学术资源平台",
+          "tooltip": "https://link.springer.com/"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/",
+          "image": "../assets/images/logos/wileyonline.png",
+          "title": "Wiley Online Library",
+          "description": "全球最大、最权威文献出版及在线学科资源平台之一",
+          "tooltip": "https://onlinelibrary.wiley.com/"
+        },
+        {
+          "url": "https://doaj.org/",
+          "image": "../assets/images/logos/doaj.png",
+          "title": "DOAJ",
+          "description": "开放存取期刊的索引平台，提供高质量、同行评议期刊",
+          "tooltip": "https://doaj.org/"
+        },
+        {
+          "url": "https://arxiv.org/",
+          "image": "../assets/images/logos/arxiv.png",
+          "title": "arXiv",
+          "description": "开放存取超过140万篇论文预印本服务平台",
+          "tooltip": "https://arxiv.org/"
+        },
+        {
+          "url": "http://www.paper.edu.cn/",
+          "image": "../assets/images/logos/sciencepaperonline.png",
+          "title": "中国科技论文在线",
+          "description": "国内唯一免费全文期刊库，由中华人民共和国教育部主管",
+          "tooltip": "http://www.paper.edu.cn/"
+        }
+      ]
+    },
+    {
+      "title": "学术搜索",
+      "items": [
+        {
+          "url": "https://cn.bing.com/academic",
+          "image": "../assets/images/logos/bingscholar.png",
+          "title": "Bing学术搜索",
+          "description": "微软必应学术搜索",
+          "tooltip": "https://cn.bing.com/academic"
+        },
+        {
+          "url": "https://www.gupiaoq.com/",
+          "image": "../assets/images/logos/googlescholar.png",
+          "title": "谷歌学术搜索",
+          "description": "快速搜索全球学术资源",
+          "tooltip": "https://www.gupiaoq.com/"
+        },
+        {
+          "url": "https://sci-hub.ee/",
+          "image": "../assets/images/logos/scihub.png",
+          "title": "Sci-Hub",
+          "description": "快速免费搜索全球学术资源",
+          "tooltip": "https://sci-hub.ee/"
+        },
+        {
+          "url": "https://xueshu.baidu.com/",
+          "image": "../assets/images/logos/baiduxueshu.png",
+          "title": "百度学术搜索",
+          "description": "全面的中英文科技文献免费搜索引擎",
+          "tooltip": "https://xueshu.baidu.com/"
+        },
+        {
+          "url": "https://sci-hub.ru/",
+          "image": "../assets/images/logos/scihub.png",
+          "title": "Sci-Hub ①",
+          "description": "免费国外论文下载",
+          "tooltip": "https://sci-hub.ru/"
+        },
+        {
+          "url": "https://sci-hub.shop/",
+          "image": "../assets/images/logos/scihub.png",
+          "title": "Sci-Hub ②",
+          "description": "免费国外论文下载",
+          "tooltip": "https://sci-hub.shop/"
+        },
+        {
+          "url": "https://sci-hub.org.cn/",
+          "image": "../assets/images/logos/cqvip.png",
+          "title": "SciHub综合搜索",
+          "description": "融合Google学术、Sci-Hub、Libgen等数据源",
+          "tooltip": "https://sci-hub.org.cn/"
+        }
+      ]
+    },
+    {
+      "title": "国内期刊",
+      "items": [
+        {
+          "url": "https://www.nppa.gov.cn/nppa/publishing/magazine.shtml",
+          "image": "../assets/images/logos/xinwenchuban.png",
+          "title": "期刊杂志社查询",
+          "description": "国家新闻出版署期刊查询系统",
+          "tooltip": "https://www.nppa.gov.cn/nppa/publishing/magazine.shtml"
+        },
+        {
+          "url": "http://sciencechina.cn/cscd_source.jsp",
+          "image": "../assets/images/logos/cscd.png",
+          "title": "CSCD",
+          "description": "中国科学引文数据库（CSCD）来源期刊遴选报告",
+          "tooltip": "http://sciencechina.cn/cscd_source.jsp"
+        },
+        {
+          "url": "https://www.cb.cnki.net/",
+          "image": "../assets/images/logos/cnki.png",
+          "title": "CNKI投稿平台",
+          "description": "中国学术期刊论文投稿平台，避免踩坑虚假期刊官网",
+          "tooltip": "https://www.cb.cnki.net/"
+        },
+        {
+          "url": "http://corejournal.lib.sjtu.edu.cn/",
+          "image": "../assets/images/logos/sjtu.png",
+          "title": "核心期刊查询系统",
+          "description": "上海交大核心期刊查询系统，为千万科研工作者筛选真核心",
+          "tooltip": "http://corejournal.lib.sjtu.edu.cn/"
+        },
+        {
+          "url": "http://gooa.las.ac.cn/external/index.jsp",
+          "image": "../assets/images/logos/gooa.png",
+          "title": "GoOA",
+          "description": "中国科学院全球优质开放论文平台",
+          "tooltip": "http://gooa.las.ac.cn/external/index.jsp"
+        },
+        {
+          "url": "http://www.ncpssd.org/",
+          "image": "../assets/images/logos/ncpssd.png",
+          "title": "国家哲学社会科学文献中心",
+          "description": "中国社会科学院国家哲学社会科学文献中心",
+          "tooltip": "http://www.ncpssd.org/"
+        },
+        {
+          "url": "https://www.hanspub.org/",
+          "image": "../assets/images/logos/hans.png",
+          "title": "汉斯出版社",
+          "description": "中文开源期刊学术交流平台，拥有近200种各类开放期刊",
+          "tooltip": "https://www.hanspub.org/"
+        },
+        {
+          "url": "http://www.ckcest.cn/home/",
+          "image": "../assets/images/logos/cktest.png",
+          "title": "中国工程科技知识中心",
+          "description": "工程科技领域信息汇聚、数据挖掘和知识服务中心",
+          "tooltip": "http://www.ckcest.cn/home/"
+        },
+        {
+          "url": "https://doaj.istic.ac.cn/",
+          "image": "../assets/images/logos/istic.png",
+          "title": "国家科技期刊开放平台",
+          "description": "以“公益普惠、开放共享、权威精品”为定位，以开放整合国内科技期刊为途径，汇聚国内千余学术期刊",
+          "tooltip": "https://doaj.istic.ac.cn/"
+        },
+        {
+          "url": "http://www.nlc.cn/",
+          "image": "../assets/images/logos/gjtsg.png",
+          "title": "中国国家数字图书馆",
+          "description": "国家图书馆从上世纪90年代起开始研发数字图书馆，自建了一些特色数据库，并购买了部分中外文数字资源，为社会提供服务。",
+          "tooltip": "http://www.nlc.cn/"
+        }
+      ]
+    },
+    {
+      "title": "国外期刊",
+      "items": [
+        {
+          "url": "https://www.engineeringvillage.com/home.url",
+          "image": "../assets/images/logos/sciencedirect.png",
+          "title": "EI Village",
+          "description": "最权威的工程、应用科学领域文献检索平台",
+          "tooltip": "https://www.engineeringvillage.com/home.url"
+        },
+        {
+          "url": "https://www.scopus.com/",
+          "image": "../assets/images/logos/sciencedirect.png",
+          "title": "Scopus",
+          "description": "全球最大的文献摘要与科研信息引用数据库",
+          "tooltip": "https://www.scopus.com/"
+        },
+        {
+          "url": "https://www.webofknowledge.com/",
+          "image": "../assets/images/logos/wos.png",
+          "title": "Web of Science",
+          "description": "一站式科研资源库,跨多学科的、覆盖全球的引文大全",
+          "tooltip": "https://www.webofknowledge.com/"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "image": "../assets/images/logos/pubmed.png",
+          "title": "PubMed",
+          "description": "免费提供生物医学方面的论文搜寻以及摘要的数据库",
+          "tooltip": "https://pubmed.ncbi.nlm.nih.gov/"
+        },
+        {
+          "url": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+          "image": "../assets/images/logos/ieee.png",
+          "title": "IEEE Xplore",
+          "description": "计算机、电机工程学和电子学的索引、摘要和全文",
+          "tooltip": "https://ieeexplore.ieee.org/Xplore/home.jsp"
+        },
+        {
+          "url": "https://www.sciencedirect.com/",
+          "image": "../assets/images/logos/sciencedirect.png",
+          "title": "Science Direct",
+          "description": "全球领先的科技和医学信息的期刊、图书和文献数据库",
+          "tooltip": "https://www.sciencedirect.com/"
+        },
+        {
+          "url": "https://link.springer.com/",
+          "image": "../assets/images/logos/springerlink.png",
+          "title": "Springer Link",
+          "description": "全球领先的科学、技术和医学领域学术资源平台",
+          "tooltip": "https://link.springer.com/"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/",
+          "image": "../assets/images/logos/wileyonline.png",
+          "title": "Wiley Online Library",
+          "description": "全球最大、最权威文献出版及在线学科资源平台之一",
+          "tooltip": "https://onlinelibrary.wiley.com/"
+        },
+        {
+          "url": "https://dl.acm.org/",
+          "image": "../assets/images/logos/acm.png",
+          "title": "ACM Digital Library",
+          "description": "美国计算机学会，全文和计算机领域的引文和摘要",
+          "tooltip": "https://dl.acm.org/"
+        },
+        {
+          "url": "https://pubs.acs.org/",
+          "image": "../assets/images/logos/acs.png",
+          "title": "ACS",
+          "description": "美国化学学会期刊数据库，专注于化学相关领域",
+          "tooltip": "https://pubs.acs.org/"
+        },
+        {
+          "url": "https://journals.asm.org/",
+          "image": "../assets/images/logos/asmjournal.png",
+          "title": "ASM",
+          "description": "美国微生物学会收录和索引的学会期刊数据库",
+          "tooltip": "https://journals.asm.org/"
+        },
+        {
+          "url": "https://www.emerald.com/insight/",
+          "image": "../assets/images/logos/emerald.png",
+          "title": "Emerald",
+          "description": "管理学、图书馆学、工程学以及人文社会科学数据库",
+          "tooltip": "https://www.emerald.com/insight/"
+        },
+        {
+          "url": "https://app.dimensions.ai/",
+          "image": "../assets/images/logos/dimensions.png",
+          "title": "Dimensions平台",
+          "description": "基于大数据理念的新型综合科研信息数据平台，汇聚多种类型的海量科研信息资源",
+          "tooltip": "https://app.dimensions.ai/"
+        },
+        {
+          "url": "http://journal.hep.com.cn",
+          "image": "../assets/images/logos/frontiers.png",
+          "title": "Frontiers期刊",
+          "description": "Frontiers 系列期刊数据库共含27种全英文学术期刊。刊物的学术质量在国际上得到较高认可。",
+          "tooltip": "http://journal.hep.com.cn"
+        },
+        {
+          "url": "https://plos.org/",
+          "image": "../assets/images/logos/plos.svg",
+          "title": "美国科学公共图书馆",
+          "description": "PLoS致力于建立一个免费获取学术文献的期刊",
+          "tooltip": "https://plos.org/"
+        },
+        {
+          "url": "https://www.biomedcentral.com/",
+          "image": "../assets/images/logos/bmc.svg",
+          "title": "BioMed Central（BMC）",
+          "description": "BioMed Central是一家独立出版社，致力于提供经过同行评审的生化研究的公开取阅途径。",
+          "tooltip": "https://www.biomedcentral.com/"
+        }
+      ]
+    },
+    {
+      "title": "期刊推荐",
+      "items": [
+        {
+          "url": "https://journalsuggester.springer.com/",
+          "image": "../assets/images/logos/springerlink.png",
+          "title": "Springer suggester",
+          "description": "Springer与BMC旗下超过2000多个期刊的个性化推荐，涉及人文、自然、医药等多学科",
+          "tooltip": "https://journalsuggester.springer.com/"
+        },
+        {
+          "url": "https://journal-recommender.sagepub.com/",
+          "image": "../assets/images/logos/sagelogo.png",
+          "title": "SAGE Journal Recommender",
+          "description": "SAGE旗下900多种高品质学术期刊推荐，涉及教育学、心理学、社会学等以及生命科学。",
+          "tooltip": "https://journal-recommender.sagepub.com/"
+        },
+        {
+          "url": "https://journalfinder.elsevier.com/",
+          "image": "../assets/images/logos/sciencedirect.png",
+          "title": "Elsevier® JournalFinder",
+          "description": "Elsevier出版期刊选刊神器，根据标题和摘要自动匹配，信息丰富",
+          "tooltip": "https://journalfinder.elsevier.com/"
+        },
+        {
+          "url": "https://journalfinder.wiley.com",
+          "image": "../assets/images/logos/wileyonline.png",
+          "title": "Wiley Journal Finder",
+          "description": "Wiley旗下智能选刊工具，功能较为简单",
+          "tooltip": "https://journalfinder.wiley.com"
+        },
+        {
+          "url": "https://publication-recommender.ieee.org/home",
+          "image": "../assets/images/logos/ieee.png",
+          "title": "IEEE Publication Recommender",
+          "description": "IEEE旗下超过200期刊和2000会议智能推荐",
+          "tooltip": "https://publication-recommender.ieee.org/home"
+        },
+        {
+          "url": "https://www.mdpi.com/about/journalselector",
+          "image": "../assets/images/logos/mdpi.svg",
+          "title": "MDPI journal selector",
+          "description": "MDPI旗下期刊选择工具，灵活选择影响因子、文章处理费、数据库收录情况等。",
+          "tooltip": "https://www.mdpi.com/about/journalselector"
+        },
+        {
+          "url": "https://www.emeraldgrouppublishing.com/publish-with-us/publish-in-a-journal/find-a-journal",
+          "image": "../assets/images/logos/emerald.png",
+          "title": "Emerald期刊选择",
+          "description": "Emerald旗下200多种管理学、图书馆学等专业期刊选择工具",
+          "tooltip": "https://www.emeraldgrouppublishing.com/publish-with-us/publish-in-a-journal/find-a-journal"
+        },
+        {
+          "url": "https://www.edanz.com/journal-selector",
+          "image": "../assets/images/logos/edanz.png",
+          "title": "Edanz期刊发现工具",
+          "description": "第三方期刊发现工具，功能较为简单",
+          "tooltip": "https://www.edanz.com/journal-selector"
+        }
+      ]
+    },
+    {
+      "title": "专利标准",
+      "items": [
+        {
+          "url": "https://www.lens.org/",
+          "image": "../assets/images/logos/lens.png",
+          "title": "Lens免费专利检索与分析平台",
+          "description": "免费的全球专利检索与分析平台",
+          "tooltip": "https://www.lens.org/"
+        },
+        {
+          "url": "http://www.casip.ac.cn/",
+          "image": "../assets/images/logos/casip.png",
+          "title": "中国科学院知识产权网",
+          "description": "整合了全院具有自主知识产权的科研成果，并及时对外发布",
+          "tooltip": "http://www.casip.ac.cn/"
+        },
+        {
+          "url": "https://www.zhihuiya.com/",
+          "image": "../assets/images/logos/patsnap.png",
+          "title": "智慧芽专利分析",
+          "description": "智慧芽专利检索_全球专利数据库_全面专利检索平台",
+          "tooltip": "https://www.zhihuiya.com/"
+        },
+        {
+          "url": "https://www.spc.org.cn/",
+          "image": "../assets/images/logos/spccn.png",
+          "title": "中国标准在线服务网",
+          "description": "中国标准出版社唯一正版标准网络发行平台，为用户及时、准确、权威提供国内外标准",
+          "tooltip": "https://www.spc.org.cn/"
+        },
+        {
+          "url": "http://openstd.samr.gov.cn/bzgk/gb/",
+          "image": "../assets/images/logos/guojiabiaozhun.png",
+          "title": "国家标准全文公开系统",
+          "description": "本系统公开了国家市场监督管理总局、国家标准委2017年1月1日前已批准发布的所有强制性国家标准、推荐性国家标准",
+          "tooltip": "http://openstd.samr.gov.cn/bzgk/gb/"
+        },
+        {
+          "url": "https://www.cnipa.gov.cn/",
+          "image": "../assets/images/logos/cnipa.png",
+          "title": "国家知识产权局",
+          "description": "国家知识产权局",
+          "tooltip": "https://www.cnipa.gov.cn/"
+        },
+        {
+          "url": "https://www.epo.org/index.html",
+          "image": "../assets/images/logos/epo.png",
+          "title": "欧洲专利局-EPO",
+          "description": "欧洲专利局-EPO",
+          "tooltip": "https://www.epo.org/index.html"
+        }
+      ]
+    },
+    {
+      "title": "科研数据",
+      "items": [
+        {
+          "url": "https://escience.org.cn/",
+          "image": "../assets/images/logos/nssd.png",
+          "title": "中国科技资源共享网",
+          "description": "国家科技基础条件平台中心",
+          "tooltip": "https://escience.org.cn/"
+        },
+        {
+          "url": "https://data.stats.gov.cn/",
+          "image": "../assets/images/logos/guojiashuju.png",
+          "title": "国家数据",
+          "description": "国家统计数据库，GDP PMI CPI PPI，大中城市房价",
+          "tooltip": "https://data.stats.gov.cn/"
+        },
+        {
+          "url": "https://www.fao.org/faostat/en/#data",
+          "image": "../assets/images/logos/fao-un.svg",
+          "title": "FAO数据",
+          "description": "联合国粮油组织统计数据，包含全球主要农作物、畜牧、价格等数据。",
+          "tooltip": "https://www.fao.org/faostat/en/#data"
+        }
+      ]
+    },
+    {
+      "title": "基金申请",
+      "items": [
+        {
+          "url": "https://www.nsfc.gov.cn/",
+          "image": "../assets/images/logos/nsfc.png",
+          "title": "国家自然科学基金委员会",
+          "description": "国家自然科学基金委员会官网",
+          "tooltip": "https://www.nsfc.gov.cn/"
+        },
+        {
+          "url": "https://output.nsfc.gov.cn/",
+          "image": "../assets/images/logos/nsfc.png",
+          "title": "国家自然科学基金共享服务网",
+          "description": "国家自然科学基金项目公布，成果检索",
+          "tooltip": "https://output.nsfc.gov.cn/"
+        },
+        {
+          "url": "https://ir.nsfc.gov.cn/",
+          "image": "../assets/images/logos/nsfc.png",
+          "title": "国家自然科学基金基础研究知识库",
+          "description": "国家自然科学基金基础研究知识库",
+          "tooltip": "https://ir.nsfc.gov.cn/"
+        },
+        {
+          "url": "http://jj.chinapostdoctor.org.cn/website/index.html",
+          "image": "../assets/images/logos/chinapostdoctor.png",
+          "title": "中国博士后科学基金会",
+          "description": "中国博士后科学基金会",
+          "tooltip": "http://jj.chinapostdoctor.org.cn/website/index.html"
+        }
+      ]
+    },
+    {
+      "title": "科研工具",
+      "items": [
+        {
+          "url": "http://www.letpub.com.cn/index.php?page=journalapp",
+          "image": "../assets/images/logos/letpub.png",
+          "title": "SCI影响因子查询",
+          "description": "SCI影响因子查询",
+          "tooltip": "http://www.letpub.com.cn/index.php?page=journalapp"
+        },
+        {
+          "url": "http://www.inoteexpress.com/",
+          "image": "../assets/images/logos/noteexpress.png",
+          "title": "NoteExpress文献管理",
+          "description": "国产收费文献检索与管理软件",
+          "tooltip": "http://www.inoteexpress.com/"
+        },
+        {
+          "url": "https://www.zotero.org/",
+          "image": "../assets/images/logos/zotero.png",
+          "title": "Zotero",
+          "description": "开源免费的文献管理软件",
+          "tooltip": "https://www.zotero.org/"
+        },
+        {
+          "url": "https://www.mendeley.com/",
+          "image": "../assets/images/logos/mendeley.png",
+          "title": "Mendeley文献管理",
+          "description": "免费的跨平台文献管理软件",
+          "tooltip": "https://www.mendeley.com/"
+        }
+      ]
+    },
+    {
+      "title": "学术社交",
+      "items": [
+        {
+          "url": "https://www.sciencenet.cn/",
+          "image": "../assets/images/logos/kexuewang.png",
+          "title": "科学网",
+          "description": "构建全球华人科学社区",
+          "tooltip": "https://www.sciencenet.cn/"
+        },
+        {
+          "url": "https://www.researchgate.net/",
+          "image": "../assets/images/logos/researchgate.png",
+          "title": "ResearchGate",
+          "description": "ResearchGate是一个联系同行，了解研究动态，分享科研方法以及交流想法的科研社交网络服务网站。",
+          "tooltip": "https://www.researchgate.net/"
+        }
+      ]
+    }
+  ]
+}
